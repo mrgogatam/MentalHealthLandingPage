@@ -154,6 +154,7 @@ body {
 .textContent p {
     font-size: 28px;
     font-weight: bold;
+    margin-top: 23px;
     margin-bottom: 10px;
 }
 
