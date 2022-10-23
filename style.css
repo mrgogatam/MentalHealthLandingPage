@@ -16,8 +16,8 @@ body {
 .headerBar {
     background-color: rgba(149, 148, 148, 1);
     width: 1440px;
-    border-bottom-left-radius: 8px;
-    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 34px;
+    border-bottom-right-radius: 34px;
     position: fixed;
     top: 0;
     z-index: 1;
